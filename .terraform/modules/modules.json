@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"kubernetes_cluster","Source":"git::https://github.com/cloudscript-technology/terraform-mgc-kubernetes-cluster.git?ref=0.0.1","Dir":".terraform/modules/kubernetes_cluster"},{"Key":"mgc_kubernetes_cluster","Source":"./main.tf","Dir":"main.tf"}]}
