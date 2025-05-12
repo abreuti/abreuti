@@ -1,6 +1,6 @@
 # 👨‍💻 Diego Abreu
 
-Tech Lead Customer Care @ Magalu Cloud | DevOps Enthusiast | Infrastructure as Code Fan | Pai da Olívia | Músico 
+Cloud Tech Lead @ Magalu Cloud | DevOps Enthusiast | Infrastructure as Code Fan | Pai da Olívia | Músico 
 
 ---
 
